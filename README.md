@@ -10,6 +10,7 @@ Includes links for Collin's University of Arkansas account and scholarships.
 
 
 ## University of Arkansas - Orientation
+- [Application Admission Status](https://applyundergrad.uark.edu/account/login?r=https%3a%2f%2fapplyundergrad.uark.edu%2fapply%2fstatus)
 - [Main Site - 2022 New Student Orientation](https://orientation.uark.edu/)
 - [Prepare for 2022 Student Orientation](https://orientation.uark.edu/prepare/index.php)
 - [UofA Orientation 2 Day Agenda - Summer 2022](https://orientation.uark.edu/_resources/downloads/2022/uofa-orientation-two-day-summer-2022.pdf)
