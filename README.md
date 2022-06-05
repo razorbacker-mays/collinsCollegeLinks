@@ -38,6 +38,7 @@ Includes links for Collin's University of Arkansas account and scholarships.
 - [Campus Card Office](https://campuscardoffice.uark.edu/)
 - [Information Technology Services](https://its.uark.edu/)
 - [Hog Sync](https://hogsync.uark.edu/)
+- [Arkansas Razorbacks - Student Tickets](https://arkansasrazorbacks.com/student-tickets/)
 
 
 ## University of Arkansas - Personal Resources
