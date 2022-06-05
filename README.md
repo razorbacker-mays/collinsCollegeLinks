@@ -17,6 +17,7 @@ Includes links for Collin's University of Arkansas account and scholarships.
 - [UofA Orientation Resources - Summer 2022](https://orientation.uark.edu/resources/index.php)
 - [College of Engineering - Orientation](https://first-year-engineering.uark.edu/orientation/index.php)
 - [Orientation Information Modules](https://nextsteps.uark.edu/)
+- [Campus Card Office](https://campuscardoffice.uark.edu/)
 
 
 
@@ -29,20 +30,19 @@ Includes links for Collin's University of Arkansas account and scholarships.
 - [UofA Move In main site](https://movein.uark.edu/)
 - [Move In Timeline](https://movein.uark.edu/move-in-timeline/)
 - [Living and Dining on Campus](https://orientation.uark.edu/resources/living-dining.php)
-- []()
-- []()
-- []()
+
 
 ## University of Arkansas - Resources
+- [University of Arkansas - Main Site](https://www.uark.edu/)
 - [Campus Card Office](https://campuscardoffice.uark.edu/)
-- []()
+- [Information Technology Services](https://its.uark.edu/)
+- [Hog Sync](https://hogsync.uark.edu/)
 
 
 ## University of Arkansas - Personal Resources
 - [UAConnect](https://uaconnect.uark.edu/)
 - [Email Account (Outlook - Office 360)](https://outlook.office.com/uark.edu)
-- []()
-- []()
+
 
 
 ## College Scholarships - Resources
