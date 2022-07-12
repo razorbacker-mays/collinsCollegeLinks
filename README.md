@@ -27,7 +27,8 @@ Includes links for Collin's University of Arkansas account and scholarships.
 - [Getting Involved](https://orientation.uark.edu/resources/getting-involved.php)
 
 
-## University of Arkansas - Dormitory and Move-In Resources
+## University of Arkansas - Housing and Move-In Resources
+- [UofA Housing Portal](https://campushousing.uark.edu/StarRezPortalX/Login?returnUrl=%2FStarRezPortalX%2F404F7028%2F1%2F1%2FHome-Welcome_Page)
 - [UofA Move In main site](https://movein.uark.edu/)
 - [Move In Timeline](https://movein.uark.edu/move-in-timeline/)
 - [Living and Dining on Campus](https://orientation.uark.edu/resources/living-dining.php)
